@@ -11,3 +11,10 @@ Open all cells or mark them by flag
 - Right click - mark by flag
 ## Libraries
 - pygame
+## How to run
+```
+git clone https://github.com/Smail000/BomberMan.git
+cd BomberMan
+pip install pygame
+python main.py
+```
